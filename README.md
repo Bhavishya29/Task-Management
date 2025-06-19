@@ -31,9 +31,9 @@ This opens Chrome, executes test cases from test_asanascript.py, and generates a
 ## Allure Reporting
 
 📄 Output
-Automated UI interaction with Asana
+- Automated UI interaction with Asana
 
-Detailed test reports (with pass/fail stats and timestamps)
+- Detailed test reports (with pass/fail stats and timestamps)
 
 ## 👩‍💻 Author
 I wrote this script as part of a testing automation assignment.
